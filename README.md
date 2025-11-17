@@ -1,12 +1,20 @@
-# MycopunkModTemplate
+# ItemCapPlus
 
-## How to use:
+Increase the cap for all scrap and some items
 
-- Use this as template for your repo
-- Change `AssemblyName` and `Product`
-- Change copyright holder in LICENSE
-- Uncomment and change the path to `Assembly-CSharp.dll` in `.csproj`
-- If you need more stuff like `Unity.TextMeshPro` or `UnityEngine.UI`, just add a reference to them the same way as main
-  dll
-- If you want `Unity.InputSystem`, add this line:
-  - `<PackageReference Include="UnityEngine.Modules" Version="2022.3.5" IncludeAssets="compile" />`
+## Items modified
+
+* All Scrap - From 300 to 999
+* Premium Loot License - From 15 to 99
+* Personal Access Token - From 15 to 99
+* Clearance Certificate - From 15 to 99
+* Bootleg Duplicator - From 10 to 99
+
+## Authors
+
+* Hentilador
+* funlennysub [(mod template)](https://github.com/funlennysub/MycopunkModTemplate)
+
+## License
+
+This project is licensed under the MIT License

@@ -2,10 +2,10 @@
 schemaVersion = "0.0.1"
 
 [package]
-namespace = "TeamName"
-name = "PackageName"
-description = "Example mod description"
-websiteUrl = "https://github.com/funlennysub/MycopunkModTemplate"
+namespace = "Hentilador"
+name = "ItemCapPlus"
+description = "Increase the cap for all scrap and some items"
+websiteUrl = "https://github.com/Hentilador/ItemCapPlus"
 containsNsfwContent = false
 
 [package.dependencies]
@@ -17,8 +17,8 @@ readme = "README.md"
 outdir = "build"
 
 [[build.copy]]
-source = "bin/Release/net48/MycopunkModTemplate.dll"
-target = "BepInEx/plugins/MycopunkModTemplate.dll"
+source = "bin/Debug/net48/ItemCapPlus.dll"
+target = "ItemCapPlus.dll"
 
 [[build.copy]]
 source = "CHANGELOG.md"
