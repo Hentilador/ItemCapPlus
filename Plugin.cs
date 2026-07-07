@@ -10,7 +10,7 @@ public class Plugin : BaseUnityPlugin
 {
     public const string PluginGUID = "hed14.itemcapplus";
     public const string PluginName = "ItemCapPlus";
-    public const string PluginVersion = "1.0.0";
+    public const string PluginVersion = "1.0.2";
 
     internal new static ManualLogSource Logger;
 

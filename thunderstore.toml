@@ -5,6 +5,7 @@ schemaVersion = "0.0.1"
 namespace = "Hentilador"
 name = "ItemCapPlus"
 description = "Increase the cap for all scrap and some items"
+versionNumber = "1.0.2"
 websiteUrl = "https://github.com/Hentilador/ItemCapPlus"
 containsNsfwContent = false
 
@@ -17,7 +18,7 @@ readme = "README.md"
 outdir = "build"
 
 [[build.copy]]
-source = "bin/Debug/net48/ItemCapPlus.dll"
+source = "bin/Release/net48/ItemCapPlus.dll"
 target = "ItemCapPlus.dll"
 
 [[build.copy]]
