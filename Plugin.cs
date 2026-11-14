@@ -37,7 +37,7 @@ public class PlayerResourceMaxPatch
             "romphus" => 9999,
             "gussula" => 9999,
             "beezia" => 9999,
-            "yeucon" => 9999,
+            "yeuco" => 9999,
             "saxonite" => 9999,
             "strange_comp" => 9999,
             "scrap_standard" => 999,
